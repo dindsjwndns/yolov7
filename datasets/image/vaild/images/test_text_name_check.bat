@@ -1,0 +1,1 @@
+text_name_check %1 %2 %3 %4
